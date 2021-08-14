@@ -28,10 +28,10 @@
       <img alt = "C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   </p>
  </div>
+ <hr>
  
- 
-### About me 
-- 🌱 Still trying to find out what area I want to pursue as a software developer.
+### About me
+
 - 🖥️ Working towards being a backend web developer.
 - ♥️ Interested in Open Source.
 - 🎓  Information Systems undergrad at Universidade Federal do Estado do Rio de Janeiro.
