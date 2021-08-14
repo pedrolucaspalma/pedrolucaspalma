@@ -29,7 +29,7 @@
 - 🌱 Still trying to find out what area I want to pursue as a software developer.
 - 🖥️ Working towards being a backend web developer.
 - ♥️ Interested in Open Source.
-- 🎓  Information Systems undergrad at Unirio.
+- 🎓  Information Systems undergrad at Universidade Federal do Estado do Rio de Janeiro.
 - 💭  Let's get to know each other.
 
 
