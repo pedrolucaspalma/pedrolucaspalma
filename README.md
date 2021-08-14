@@ -9,7 +9,7 @@
 
 
 <div display = "flex" align= "center">
-  <h3> 🐝 Pedro | 💻 Software Developer | 🌏 Rio de Janeiro, RJ </h3> 
+  <h3> 🎓 Pedro | 💻 Software Developer | 🌏 Rio de Janeiro, RJ </h3> 
   <a href="https://www.linkedin.com/in/pedrolucaspalma/"><img height="30"src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
 </div>
 
@@ -28,6 +28,7 @@
 ### About me 
 - 🌱 Still trying to find out what area I want to pursue as a software developer.
 - 🖥️ Working towards being a backend web developer.
+- ♥️ Interested in Open Source.
 - 🎓  Information Systems undergrad at Unirio.
 - 💭  Let's get to know each other.
 
