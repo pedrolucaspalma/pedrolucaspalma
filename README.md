@@ -11,6 +11,8 @@
 <div display = "flex" align= "center">
   <h3> 🎓 Pedro | 💻 Software Developer | 🌏 Rio de Janeiro, RJ </h3>
   <a href="https://www.linkedin.com/in/pedrolucaspalma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  #####
 
 </div>
 
