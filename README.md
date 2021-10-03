@@ -3,7 +3,7 @@
 </div>
 
 <div display = "flex" align = "center">
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucaspalma&theme=onedark"/>
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucaspalma&theme=onedark&count_private=true"/>
   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucaspalma&theme=onedark&count_private=true"/>
 </div>
 
