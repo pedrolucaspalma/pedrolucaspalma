@@ -34,7 +34,7 @@
  
 ### About me
 
-- 🖥️ Working towards being a web developer.
+- 🖥️ Fullstack web develop intern.
 - ♥️ Interested in Open Source.
 - 🎓  Information Systems undergrad at Universidade Federal do Estado do Rio de Janeiro.
 - 💭  Let's get to know each other.
