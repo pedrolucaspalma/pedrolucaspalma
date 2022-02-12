@@ -4,7 +4,7 @@
 
 <div display = "flex" align = "center">
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucaspalma&theme=onedark&count_private=true"/>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucaspalma&theme=onedark&count_private=true&hide=jupyter%20notebook"/>
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucaspalma&theme=onedark&count_private=true&hide=jupyter%notebook,c"/>
 </div>
 
 
