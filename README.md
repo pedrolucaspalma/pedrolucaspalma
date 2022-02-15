@@ -3,8 +3,8 @@
 </div>
 
 <div display = "flex" flex-direction="column" align = "center">
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucaspalma&theme=onedark&count_private=true"/>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucaspalma&theme=onedark&count_private=true&hide=jupyter%20notebook,c"/>
+  <img display = "flex" height = "180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucaspalma&theme=onedark&count_private=true"/>
+  <img display = "flex" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucaspalma&theme=onedark&count_private=true&hide=jupyter%20notebook,c"/>
 </div>
 
 
