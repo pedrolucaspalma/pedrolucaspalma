@@ -2,9 +2,9 @@
   <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
-<div display = "flex" flex-direction="column" align = "center">
-  <img display = "flex" height = "180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucaspalma&theme=onedark&count_private=true"/>
-  <img display = "flex" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucaspalma&theme=onedark&count_private=true&hide=jupyter%20notebook,c"/>
+<div display = "flex" align = "center">
+  <img  height = "180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucaspalma&theme=onedark&count_private=true"/>
+  <img  height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucaspalma&theme=onedark&count_private=true&hide=jupyter%20notebook,c"/>
 </div>
 
 
