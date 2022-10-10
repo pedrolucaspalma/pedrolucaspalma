@@ -34,7 +34,7 @@
  
 ### About me
 
-- 🖥️ Fullstack web development intern.
+- 🖥️ Backend Engineer at Sticky NFT Marketplace.
 - ♥️ Interested in Open Source.
 - 🎓  Information Systems undergrad at Universidade Federal do Estado do Rio de Janeiro.
 - 💭  Let's get to know each other.
